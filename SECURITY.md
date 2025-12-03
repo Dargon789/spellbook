@@ -6,8 +6,8 @@ This project is a collection of SQL models and does not follow a traditional ver
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+The Dune team and community take all security vulnerabilities seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report a security vulnerability, please use the [GitHub private vulnerability reporting feature](https://github.com/duneanalytics/spellbook/security/advisories/new).
+
+You can expect an initial response within 48 hours. If the vulnerability is accepted, we will work with you to coordinate a fix and public announcement.
