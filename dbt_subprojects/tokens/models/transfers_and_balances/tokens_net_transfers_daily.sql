@@ -25,10 +25,12 @@
     , 'megaeth'
     , 'mezo'
     , 'monad'
+    , 'morph'
     , 'opbnb'
     , 'optimism'
     , 'plasma'
     , 'polygon'
+    , 'robinhood'
     , 'ronin'
     , 'rise'
     , 'scroll'
@@ -38,6 +40,7 @@
     , 'tac'
     , 'taiko'
     , 'tempo'
+    , 'tezos_evm'
     , 'tron'
     , 'unichain'
     , 'zkevm'
@@ -47,6 +50,7 @@
     , 'apechain'
     , 'berachain'
     , 'corn'
+    , 'cronos'
     , 'degen'
     , 'flare'
     , 'henesys'
@@ -80,4 +84,3 @@ FROM (
         {% endif %}
         {% endfor %}
 )
-
