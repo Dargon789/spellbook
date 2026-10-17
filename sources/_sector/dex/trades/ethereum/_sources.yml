@@ -171,3 +171,21 @@ sources:
       - name: etherfiarm_call_swaptokensforexacttokens
       - name: ethenaarm_call_swapexacttokensfortokens
       - name: ethenaarm_call_swaptokensforexacttokens
+      - name: multiassetarm_call_swapexacttokensfortokens
+      - name: multiassetarm_call_swaptokensforexacttokens
+  - name: lista_ethereum
+    tables:
+      - name: stableswapfactory_evt_newstableswappair
+      - name: stableswappool_evt_tokenexchange
+
+  - name: agra_multichain
+    tables:
+      - name: settlement_evt_orderfulfilled
+
+  - name: metric_multichain
+    tables:
+      - name: metricommpoolfactoryv0_evt_poolcreated
+      - name: metricommpoolv0_evt_swap
+      - name: metricommpoolv1_evt_swap
+      - name: metricommpoolv2_evt_swap
+      - name: metricommpoolv2_beta_evt_swap
